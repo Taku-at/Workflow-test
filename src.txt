@@ -1,0 +1,4 @@
+Tutorial on [YouTube](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+
+Create this folder
+github/workflows/blog-post-workflows.yml
